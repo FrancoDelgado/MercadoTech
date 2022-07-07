@@ -1,6 +1,6 @@
 # MercadoTech
 
 Franco :fire:
-Gaston
+Gaston :dog:
 Judith :world_map:
 Cecilia :coffee:
